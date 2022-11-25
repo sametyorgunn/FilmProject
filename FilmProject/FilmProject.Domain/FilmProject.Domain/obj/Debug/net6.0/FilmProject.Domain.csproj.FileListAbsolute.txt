@@ -1,0 +1,12 @@
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Domain\FilmProject.Domain\bin\Debug\net6.0\FilmProject.Domain.deps.json
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Domain\FilmProject.Domain\bin\Debug\net6.0\FilmProject.Domain.dll
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Domain\FilmProject.Domain\bin\Debug\net6.0\FilmProject.Domain.pdb
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Domain\FilmProject.Domain\obj\Debug\net6.0\FilmProject.Domain.csproj.AssemblyReference.cache
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Domain\FilmProject.Domain\obj\Debug\net6.0\FilmProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Domain\FilmProject.Domain\obj\Debug\net6.0\FilmProject.Domain.AssemblyInfoInputs.cache
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Domain\FilmProject.Domain\obj\Debug\net6.0\FilmProject.Domain.AssemblyInfo.cs
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Domain\FilmProject.Domain\obj\Debug\net6.0\FilmProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Domain\FilmProject.Domain\obj\Debug\net6.0\FilmProject.Domain.dll
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Domain\FilmProject.Domain\obj\Debug\net6.0\refint\FilmProject.Domain.dll
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Domain\FilmProject.Domain\obj\Debug\net6.0\FilmProject.Domain.pdb
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Domain\FilmProject.Domain\obj\Debug\net6.0\ref\FilmProject.Domain.dll

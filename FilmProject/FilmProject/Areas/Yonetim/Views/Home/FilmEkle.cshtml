@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewData["Title"] = "FilmEkle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>FilmEkle</h1>
+
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+
+    <style>
+        .ui-datepicker-calendar {
+            display: none;
+        }
+    </style>
+</head>
+
+
+<form method="post">
+
+
+     <div class="form-group">
+        <label for="exampleInputEmail1">Salon seciniz</label>
+        @await Component.InvokeAsync("SalonListeleCheckBox")
+
+    </div>
+    <div class="form-group col-md-3">
+        <label for="exampleInputPassword1">Film adını giriniz</label>
+        <input type="text" class="form-control" name="FilmAdi" id="exampleInputPassword1" placeholder="Film adı">
+    </div>
+    <div class="form-group col-md-3">
+        <label for="exampleInputPassword1">Tarih giriniz</label>
+        <input name="FilmYapimYil" class="date-own form-control" style="width: 300px;" type="text" placeholder="Tarih">
+
+    </div>
+
+   
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+
+    </form>
+
+<script>
+    $('.date-own').datepicker({
+        minViewMode: 2,
+        format: 'yyyy'
+    });
+</script>
+
+
+

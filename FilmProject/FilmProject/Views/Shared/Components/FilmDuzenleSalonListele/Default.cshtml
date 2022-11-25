@@ -1,0 +1,8 @@
+﻿@model List<FilmProject.Domain.Entities.Salon>
+
+<select name="SalonId" id="salonid">
+    @foreach(var i in Model)
+    {
+    <option value="@i.Id">@i.SalonAdi</option>
+    }
+</select>

@@ -1,0 +1,13 @@
+﻿@model List<FilmProject.Domain.Entities.Salon>
+
+
+
+@foreach (var item in Model)
+{
+    <div class="checkbox">
+        <label>
+            <input type="checkbox" name="Salons" value="@item.Id" /> @item.SalonAdi
+        </label>
+    </div>
+}
+

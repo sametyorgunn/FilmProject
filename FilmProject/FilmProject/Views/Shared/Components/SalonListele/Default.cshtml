@@ -1,0 +1,8 @@
+﻿@model List<FilmProject.Domain.Entities.Salon>
+
+<select name="SalonId" class="form-select mb-6" data-control="select2" data-hide-search="true" data-placeholder="Durumu" id="kt_ecommerce_add_category_status_select">
+    @foreach(var i in Model)
+    {
+    <option value="@i.Id" selected="selected"> @i.SalonAdi</option>
+    }
+</select>

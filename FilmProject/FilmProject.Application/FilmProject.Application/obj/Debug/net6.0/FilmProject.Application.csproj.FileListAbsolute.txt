@@ -1,0 +1,15 @@
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Application\FilmProject.Application\bin\Debug\net6.0\FilmProject.Application.deps.json
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Application\FilmProject.Application\bin\Debug\net6.0\FilmProject.Application.dll
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Application\FilmProject.Application\bin\Debug\net6.0\FilmProject.Application.pdb
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Application\FilmProject.Application\bin\Debug\net6.0\FilmProject.Domain.dll
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Application\FilmProject.Application\bin\Debug\net6.0\FilmProject.Domain.pdb
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Application\FilmProject.Application\obj\Debug\net6.0\FilmProject.Application.csproj.AssemblyReference.cache
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Application\FilmProject.Application\obj\Debug\net6.0\FilmProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Application\FilmProject.Application\obj\Debug\net6.0\FilmProject.Application.AssemblyInfoInputs.cache
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Application\FilmProject.Application\obj\Debug\net6.0\FilmProject.Application.AssemblyInfo.cs
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Application\FilmProject.Application\obj\Debug\net6.0\FilmProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Application\FilmProject.Application\obj\Debug\net6.0\FilmProject.Application.csproj.CopyComplete
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Application\FilmProject.Application\obj\Debug\net6.0\FilmProject.Application.dll
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Application\FilmProject.Application\obj\Debug\net6.0\refint\FilmProject.Application.dll
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Application\FilmProject.Application\obj\Debug\net6.0\FilmProject.Application.pdb
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Application\FilmProject.Application\obj\Debug\net6.0\ref\FilmProject.Application.dll

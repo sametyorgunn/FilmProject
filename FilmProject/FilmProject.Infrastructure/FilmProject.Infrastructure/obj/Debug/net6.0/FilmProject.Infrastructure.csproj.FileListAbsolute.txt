@@ -1,0 +1,12 @@
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Infrastructure\FilmProject.Infrastructure\bin\Debug\net6.0\FilmProject.Infrastructure.deps.json
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Infrastructure\FilmProject.Infrastructure\bin\Debug\net6.0\FilmProject.Infrastructure.dll
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Infrastructure\FilmProject.Infrastructure\bin\Debug\net6.0\FilmProject.Infrastructure.pdb
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Infrastructure\FilmProject.Infrastructure\obj\Debug\net6.0\FilmProject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Infrastructure\FilmProject.Infrastructure\obj\Debug\net6.0\FilmProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Infrastructure\FilmProject.Infrastructure\obj\Debug\net6.0\FilmProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Infrastructure\FilmProject.Infrastructure\obj\Debug\net6.0\FilmProject.Infrastructure.AssemblyInfo.cs
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Infrastructure\FilmProject.Infrastructure\obj\Debug\net6.0\FilmProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Infrastructure\FilmProject.Infrastructure\obj\Debug\net6.0\FilmProject.Infrastructure.dll
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Infrastructure\FilmProject.Infrastructure\obj\Debug\net6.0\refint\FilmProject.Infrastructure.dll
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Infrastructure\FilmProject.Infrastructure\obj\Debug\net6.0\FilmProject.Infrastructure.pdb
+C:\Users\asame\Desktop\.NetProjeler\FilmProject\FilmProject.Infrastructure\FilmProject.Infrastructure\obj\Debug\net6.0\ref\FilmProject.Infrastructure.dll

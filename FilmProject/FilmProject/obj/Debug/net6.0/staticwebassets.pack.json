@@ -1,0 +1,329 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FilmProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FilmProject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\Template\\401.html",
+      "PackagePath": "staticwebassets\\Template\\401.html"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\Template\\404.html",
+      "PackagePath": "staticwebassets\\Template\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\Template\\500.html",
+      "PackagePath": "staticwebassets\\Template\\500.html"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\Template\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\Template\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\Template\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\Template\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\Template\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\Template\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\Template\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\Template\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\Template\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\Template\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\Template\\charts.html",
+      "PackagePath": "staticwebassets\\Template\\charts.html"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\Template\\css\\styles.css",
+      "PackagePath": "staticwebassets\\Template\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\Template\\index.html",
+      "PackagePath": "staticwebassets\\Template\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\Template\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\Template\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\Template\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\Template\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\Template\\layout-sidenav-light.html",
+      "PackagePath": "staticwebassets\\Template\\layout-sidenav-light.html"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\Template\\layout-static.html",
+      "PackagePath": "staticwebassets\\Template\\layout-static.html"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\Template\\login.html",
+      "PackagePath": "staticwebassets\\Template\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\Template\\password.html",
+      "PackagePath": "staticwebassets\\Template\\password.html"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\Template\\register.html",
+      "PackagePath": "staticwebassets\\Template\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\Template\\tables.html",
+      "PackagePath": "staticwebassets\\Template\\tables.html"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FilmProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FilmProject.props",
+      "PackagePath": "build\\FilmProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FilmProject.props",
+      "PackagePath": "buildMultiTargeting\\FilmProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FilmProject.props",
+      "PackagePath": "buildTransitive\\FilmProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

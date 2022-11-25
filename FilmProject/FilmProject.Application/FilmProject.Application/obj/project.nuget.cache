@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lZKwTZKqJt9NQ2wJ3/w/Iepnlk/yXDk14Hnb55TWO4epBHQJ+tiDhahjTomPb+nZG1pUeKQTmLK8o3qnkzPKrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Application\\FilmProject.Application\\FilmProject.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asame\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

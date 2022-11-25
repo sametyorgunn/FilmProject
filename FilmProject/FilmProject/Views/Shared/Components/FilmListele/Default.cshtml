@@ -1,0 +1,91 @@
+﻿@model List<FilmProject.Domain.Entities.FilmSalonMapTable>
+
+<div class="card mb-4">
+    <div class="card-header">
+        <i class="fas fa-table me-1"></i>
+        Filmler
+        <a href="/Yonetim/Home/FilmEkle" class="btn btn-success">Yeni film ekleyin</a>
+    </div>
+    <div class="card-body">
+        <table id="datatablesSimple">
+            <thead>
+                <tr>
+                    <th>Film Adı</th>
+                    <th>Yılı</th>
+                    <th>Salonu</th>
+                    <th>Düzenle</th>
+                    <th>Sil</th>
+                   
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <th>Name</th>
+                    <th>Position</th>
+                    <th>Office</th>
+                    <th>Age</th>
+                    <th>Start date</th>
+                    <th>Salary</th>
+                </tr>
+            </tfoot>
+            <tbody>
+              @foreach(var i in Model)
+                {
+                <tr>
+                    <td>@i.Film.FilmAdi</td>
+                    <td>@i.Film.FilmYapimYil</td>
+                        @{
+                            if(i.Salon==null)
+                            {
+                                <td>salon yok</td>
+                            }
+                            else
+                            {
+                                <td>@i.Salon.SalonAdi</td>
+                            }
+                        }
+                    
+                    <td><a class="btn btn-info" href="/Yonetim/Home/FilmDuzenle/@i.FilmId">Düzenle</a></td>
+                     <td><a class="btn btn-danger" href="/Yonetim/Home/FilmSil/@i.FilmId">Sil</a></td>
+
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

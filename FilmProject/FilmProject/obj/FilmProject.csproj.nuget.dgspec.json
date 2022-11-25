@@ -1,0 +1,361 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\FilmProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Application\\FilmProject.Application\\FilmProject.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Application\\FilmProject.Application\\FilmProject.Application.csproj",
+        "projectName": "FilmProject.Application",
+        "projectPath": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Application\\FilmProject.Application\\FilmProject.Application.csproj",
+        "packagesPath": "C:\\Users\\asame\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Application\\FilmProject.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\asame\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Domain\\FilmProject.Domain\\FilmProject.Domain.csproj": {
+                "projectPath": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Domain\\FilmProject.Domain\\FilmProject.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Domain\\FilmProject.Domain\\FilmProject.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Domain\\FilmProject.Domain\\FilmProject.Domain.csproj",
+        "projectName": "FilmProject.Domain",
+        "projectPath": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Domain\\FilmProject.Domain\\FilmProject.Domain.csproj",
+        "packagesPath": "C:\\Users\\asame\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Domain\\FilmProject.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\asame\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Infrastructure\\FilmProject.Infrastructure\\FilmProject.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Infrastructure\\FilmProject.Infrastructure\\FilmProject.Infrastructure.csproj",
+        "projectName": "FilmProject.Infrastructure",
+        "projectPath": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Infrastructure\\FilmProject.Infrastructure\\FilmProject.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\asame\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Infrastructure\\FilmProject.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\asame\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Presistence\\FilmProject.Presistence\\FilmProject.Presistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Presistence\\FilmProject.Presistence\\FilmProject.Presistence.csproj",
+        "projectName": "FilmProject.Presistence",
+        "projectPath": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Presistence\\FilmProject.Presistence\\FilmProject.Presistence.csproj",
+        "packagesPath": "C:\\Users\\asame\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Presistence\\FilmProject.Presistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\asame\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Application\\FilmProject.Application\\FilmProject.Application.csproj": {
+                "projectPath": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Application\\FilmProject.Application\\FilmProject.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\FilmProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\FilmProject.csproj",
+        "projectName": "FilmProject",
+        "projectPath": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\FilmProject.csproj",
+        "packagesPath": "C:\\Users\\asame\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\asame\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Application\\FilmProject.Application\\FilmProject.Application.csproj": {
+                "projectPath": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Application\\FilmProject.Application\\FilmProject.Application.csproj"
+              },
+              "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Domain\\FilmProject.Domain\\FilmProject.Domain.csproj": {
+                "projectPath": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Domain\\FilmProject.Domain\\FilmProject.Domain.csproj"
+              },
+              "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Infrastructure\\FilmProject.Infrastructure\\FilmProject.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Infrastructure\\FilmProject.Infrastructure\\FilmProject.Infrastructure.csproj"
+              },
+              "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Presistence\\FilmProject.Presistence\\FilmProject.Presistence.csproj": {
+                "projectPath": "C:\\Users\\asame\\Desktop\\.NetProjeler\\FilmProject\\FilmProject.Presistence\\FilmProject.Presistence\\FilmProject.Presistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

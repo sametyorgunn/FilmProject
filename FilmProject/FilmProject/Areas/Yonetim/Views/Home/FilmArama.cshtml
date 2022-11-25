@@ -1,0 +1,198 @@
+﻿@{
+    ViewData["Title"] = "FilmArama";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>FilmArama</h1>
+
+
+
+<div class="row">
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">yıllar arası filmleri getir</h5>
+                <form method="post" id="form1">
+
+                    <input id="ilkyil" type="text" name="ilkyil" placeholder="İlk Yıl" />
+                    <br /><br />
+                    <input id="ikinciyil" type="text" name="ikinciyil" placeholder="ikinci Yıl" />
+                    <br /><br />
+                    <div class="btn btn-primary" id="ara">ara</div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">aratılan salonun tüm filmleri</h5>
+
+                <form method="post" id="form2">
+                    @await Component.InvokeAsync("FilmDuzenleSalonListele")
+                    <br /><br />
+                    <div id="salonbtn" class="btn btn-primary">filmleri getir</div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<br /><br />
+<div class="row">
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">aratılan filmin salonları ve tarihleri</h5>
+
+                <form method="post">
+                    @await Component.InvokeAsync("FilmAdiArama")
+                    <div id="searchfilm" class="btn btn-primary">getir</div>
+
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<br />
+<br />
+<br />
+
+
+<div class="card mb-4">
+    <div class="card-header">
+        <i class="fas fa-table me-1"></i>
+        Filmler
+        <a href="/Yonetim/Home/FilmEkle" class="btn btn-success">Yeni film ekleyin</a>
+    </div>
+    <div class="card-body">
+        <table id="datatablesSimple">
+            <thead>
+                <tr>
+                    <th>Film Adı</th>
+                    <th>Yılı</th>
+                    <th>Salonu</th>
+                    <th>Düzenle</th>
+                    <th>Sil</th>
+
+                </tr>
+            </thead>
+
+            <tbody id="content">
+            </tbody>
+        </table>
+    </div>
+
+</div>
+
+
+
+<script src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
+
+<script>
+    $("#searchfilm").click(function () {
+        var id = $("#SelExample").val();
+        $.post("/Yonetim/Home/FilmeAitBilgiler", {id:id})
+            .then(function (data) {
+                var content = ""
+                data.map(function (item) {
+                    content += `
+                                        <tr class="filmss">
+                                        <td>-</td>
+                                        <td>${item.film.filmYapimYil}</td>
+                                        <td>${item.salon.salonAdi}</td>
+                                        <td><a class="btn btn-info" href="${window.location.origin}/Yonetim/Home/FilmDuzenle/${item.id}">Düzenle</a></td>
+                                        <td><a class="btn btn-danger" href="${window.location.origin}/Yonetim/Home/FilmSil/${item.id}">Sil</a></td>
+                                    </tr>
+
+                                        `
+                })
+                $(".filmss").remove()
+                $("#content").append(content)
+
+            })
+            .catch(function () {
+            })
+
+
+    })
+
+</script>
+
+
+
+<script>
+
+    $("#salonbtn").click(function () {
+
+        var salonId = $("#salonid").val()
+        $.post("/Yonetim/Home/SalonaAitFilmler", { id: salonId })
+            .then(function (data) {
+                debugger
+                var content = ""
+                data.map(function (item) {
+                    content +=
+                        `<tr class="filmss">
+                                        <td>${item.film.filmAdi}</td>
+                                        <td>${item.film.filmYapimYil}</td>
+                                        <td>${item.salon.salonAdi}</td>
+                                        <td><a class="btn btn-info" href="${window.location.origin}/Yonetim/Home/FilmDuzenle/${item.id}">Düzenle</a></td>
+                                        <td><a class="btn btn-danger" href="${window.location.origin}/Yonetim/Home/FilmSil/${item.id}">Sil</a></td>
+
+                                      </tr>`
+                })
+                $(".filmss").remove()
+                $("#content").append(content)
+
+            })
+            .catch(function (e) {
+                console.log(e)
+
+            })
+
+
+    });
+
+
+</script>
+<script>
+    $("#ara").click(function () {
+
+        var datas = $("#form1").serialize();
+        $.post("/Yonetim/Home/FilmFiltrele", datas)
+            .then(function (data) {
+                var content = ""
+                data.map(function (item) {
+                    content += `
+
+
+                                <tr class="filmss">
+                                    <td>${item.film.filmAdi}</td>
+                                    <td>${item.film.filmYapimYil}</td>
+                                    <td>${item.salon.salonAdi}</td>
+                                    <td><a class="btn btn-info" href="${window.location.origin}/Yonetim/Home/FilmDuzenle/${item.id}">Düzenle</a></td>
+                                    <td><a class="btn btn-danger" href="${window.location.origin}/Yonetim/Home/FilmSil/${item.id}">Sil</a></td>
+
+                                </tr>
+
+
+                                    `
+                })
+                $(".filmss").remove()
+                $("#content").append(content)
+
+            })
+            .catch(function () {
+            })
+
+
+    })
+
+</script>
+
+
+
+
+
+
